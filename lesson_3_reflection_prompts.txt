@@ -6,3 +6,8 @@ stay up-to-date with your remote repository?
 A2: Because maybe i'm just trying new features or working on an version that i dont want to be
 updated
 
+3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+branches - parallels versions of files in a repository. Testing and experimentals localy
+clone - copy of one entire repository. Copy a repository of interest
+fork - clone operation inside GitHub's enviroment. Copy a repository to am from github
+
