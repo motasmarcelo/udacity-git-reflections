@@ -11,3 +11,5 @@ branches - parallels versions of files in a repository. Testing and experimental
 clone - copy of one entire repository. Copy a repository of interest
 fork - clone operation inside GitHub's enviroment. Copy a repository to am from github
 
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+A4: Allow to track the remote state to updates the commits apropriately.
