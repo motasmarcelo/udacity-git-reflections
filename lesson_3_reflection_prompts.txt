@@ -15,5 +15,10 @@ fork - clone operation inside GitHub's enviroment. Copy a repository to am from 
 A4: Allow to track the remote state to updates the commits apropriately.
 
 5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-Maybe across email messages or a web file sharing service. It was easy needing no setup accounts and so but
+A5: Maybe across email messages or a web file sharing service. It was easy needing no setup accounts and so but
 the version control itself would be harder to track.
+
+6) When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+A6: When im testing new features or fixing a bug. Impacts on maintenance, if its a simple change/project that i can 
+broke and easy repair or if its a complex project/colaborate/implementation im about to make.
